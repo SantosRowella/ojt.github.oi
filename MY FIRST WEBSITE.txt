@@ -1,0 +1,84 @@
+<!Doctype html >
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> I AM WEB DEVELOPER </title>
+		<link rel="stylesheet" type="text/css" href="style.ccs">
+	</head>
+	
+<body>
+	<nav class="navbar"> 
+			<div class="max-width">
+			<div class="logo"><a href="#"> WEB<span>DEV</span></a></div>
+			</div>
+				<ul class="menu">
+					<li><a href="#about">ABOUT </a></li>
+					<li><a href="#services">SERVICES </a></li>
+					<li><a href="#skills">SKILLS </a></li>
+					<li><a href="#contact us">CONTACT US </a></li>
+				</ul>
+			</div>	
+	</nav>		
+	<section class="about" id="about">
+		<h1> ABOUT </h1>
+
+		<p> MY WEBSITE IN OJT Web development is the work 
+			involved in developing a website for the Internet 
+			or an intranet. Web development can range from 
+			developing a simple single static page of plain 
+			text to complex web applications, electronic
+			 businesses, and social network services </p>
+	</section>
+	<section class="services" id="services">
+		<h1>SERVICES </h1>
+
+		<p>Full-Stack Web Development Services. 
+			Ecommerce Applications.
+			· Custom Web Applications 
+			· Content Management Systems · QA & Testing · 
+			Web Support and Maintenance  </p>
+	</section>
+
+	<section class="skills" id="skills">
+		<h1>SKILLS </h1>
+
+		<p> Web developers and designers are the backbone of every
+			website. They take their client's vision and turn it 
+			into something 
+			that can be accessed online. A web ... </p>
+	</section>
+	<section class="contact us" id="contact us">
+		<h1>CONTACT US </h1>
+
+		<p> the act or state of touching; a touching or meeting, 
+			as of two things or people. 2. immediate proximity or
+			 association. 
+			3. the act or state of being in communication. </p>
+	</section>
+
+
+
+
+<footer>   
+	 <p>CODED BY : ROWELLA SANTOS 2022</p> 
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+<footer>   
+	 <p>CODEdBY : ROWELLA SANTOS 2022</p> 
+</footer>
+</body>
+</html>
+
+
