@@ -466,11 +466,11 @@ footer span a{
     .navbar .menu{
         position: fixed;
         height: 80vh;
-        width: 100%;
-        background: black;
+        width: 50%;
+        background: gray;
         opacity: 90%;
-        text-align: center;
-        padding-top: 80px;
+        text-align: left;
+        padding-top: 10px;
     }
     .navbar .menu li{
         display: block;
