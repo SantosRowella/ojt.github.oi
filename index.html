@@ -15,15 +15,35 @@
 					<li><a href="#about">ABOUT </a></li>
 					<li><a href="#services">SERVICES </a></li>
 					<li><a href="#skills">SKILLS </a></li>
-					<li><a href="#contact us">CONTACT US </a></li>
-				</ul>
-					<div class="menu-btn">
-						<img src="images/menu-burger.png">
-						
-           
-					</div>
-			</div>	
-	</nav>	
+					<li><a href="#contact">CONTACT US </a></li>
+				</ul><body>
+					<span onclick="openNav()"> <img src="images/menu-burger.png"></span> 
+				<div  class="overlay" id="myNav">
+ 				 <a href="nav.js:void(0)" class="closebtn" onclick="closeNav()">&times;   </a>				 
+
+ 				<div class="overlay-content">
+  				
+  					
+ 				 	<ul>
+  					<li> <a href="#about">About</a> </li> 
+  				 	<li>  <a href="#services">Services</a></li>
+ 					<li> <a href="#skills">Skills</a></li>
+				    <li>  <a href="#contact">Contact Us</a></li>
+  					</ul>
+  				</div>
+				</div>
+			</div>
+			
+<script>
+function openNav() {
+  document.getElementById("myNav").style.display = "block";
+}
+
+function closeNav() {
+  document.getElementById("myNav").style.display = "none";
+}
+</script>
+</nav>
 <!--home section -->
 	<section class="home" id="home">
 		<div class="max-width">
@@ -41,10 +61,10 @@
 		<h1 class="title"> ABOUT </h1>
 			<div class="about-content">
 				<div class="column left">
-					<img src="images/profile-1.jpeg" ></div>
+					<img src="images/ID PIC.jpg" ></div>
 				<div class="column right">
 					<h2 class="text"> We are ready to serve you.</h2>
-					<p> We are happy to inform you that <strong>I AM WEB DEV 2022</strong> are now ready to serve you, from the <b>design layout</b>to deploying your website online. We specialize in <i>creating websites</i> that defines your brand and showcase your <em> company products and services</em> on the internet.</p>
+					<p> We are glad to announce you that  <strong>WEB DEV 2022 </strong> is now available to assist you with everything from design creation through website deployment. We specialize in developing websites that identify your brand and promote your company's products and services online.</p>
 
 				</div>
 			</div>	
@@ -203,5 +223,3 @@ Putting up a website really hard these days. But don't worry, we've got you cove
 </footer>
 </body>
 </html>
-
-
