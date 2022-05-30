@@ -533,7 +533,7 @@ footer span a{
  .navbar .overlay {
     display: inline-flex;
         position: right;
-        height: 60vh;
+        height: 30vh;
         width: 30%;
         background: black;
         text-align: center;
